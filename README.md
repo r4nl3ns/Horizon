@@ -1,6 +1,6 @@
-# Zabbix Monitoring Project
+# Horizon Monitoring Project
 
-![Project Logo](./path/to/your/logo.png) <!-- Substitua pelo caminho do seu logo -->
+![Project Logo](https://github.com/r4nl3ns/Horizon/blob/main/horizon-ideal.png) <!-- Substitua pelo caminho do seu logo -->
 
 ## Visão Geral
 
